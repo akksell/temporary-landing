@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,400;0,700;1,400&display=swap');
+
+.bg-zeus-dark {
+	background-color: #131515;
+}
+
+.bg-zeus-grey {
+	background-color: #2B2C28;
+}
+
+.bg-zeus-green {
+	background-color: #339989;
+}
+
+.color-zeus-lightning {
+	color: #F5CB5C;
+}
+
+.btn-dark-green {
+	background-color: #339989;
+	color: #fff;
+}
+
+.btn-dark-green:hover {
+	background-color: #187a6a;
+	color: #fff;
+}
+
+.btn-dark-green:focus {
+	background-color: #187a6a;
+	box-shadow: 0px 0px 0px 3px #339989;
+}
+
+.footer {
+	background-color: #FFFAFB;
+}
